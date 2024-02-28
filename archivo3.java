@@ -1,11 +1,10 @@
 
-public class archivo1 {
+public class archivo3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hola juan");
-		System.out.println("hola marta");
 	}
 
 }
