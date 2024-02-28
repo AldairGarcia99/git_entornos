@@ -10,6 +10,7 @@ public class archivo2 {
 		System.out.println("hola lucia");
 		System.out.println("hola jorge");
 		System.out.println("hola manuel");
+		System.out.println("hola mario");
 	}
 
 }
