@@ -7,6 +7,7 @@ public class archivo1 {
 		System.out.println("hola juan");
 		System.out.println("hola marta");
 		System.out.println("hola pedro");
+		System.out.println("hola lucia");
 	}
 
 }
