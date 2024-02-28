@@ -5,6 +5,7 @@ public class archivo3 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hola juan");
+		System.out.println("hola marta");
 	}
 
 }
