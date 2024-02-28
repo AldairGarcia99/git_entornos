@@ -11,6 +11,7 @@ public class archivo2 {
 		System.out.println("hola jorge");
 		System.out.println("hola manuel");
 		System.out.println("hola mario");
+		System.out.println("hola jose");
 	}
 
 }
