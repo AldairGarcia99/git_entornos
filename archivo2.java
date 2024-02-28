@@ -9,6 +9,7 @@ public class archivo2 {
 		System.out.println("hola pedro");
 		System.out.println("hola lucia");
 		System.out.println("hola jorge");
+		System.out.println("hola manuel");
 	}
 
 }
