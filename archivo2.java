@@ -2,7 +2,7 @@
 public class archivo2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// proyecto 1
 		
 		System.out.println("hola juan");
 		System.out.println("hola marta");
@@ -12,6 +12,9 @@ public class archivo2 {
 		System.out.println("hola manuel");
 		System.out.println("hola mario");
 		System.out.println("hola jose");
+
+		// proyecto 2
+		System.out.println("que trucking onda juan");
 	}
 
 }
