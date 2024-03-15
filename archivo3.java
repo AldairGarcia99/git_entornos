@@ -14,6 +14,7 @@ public class archivo3 {
 
 		// proyecto 2
 		System.out.println("bro juan");
+		System.out.println("bro marta");
 	}
 
 }
