@@ -16,6 +16,7 @@ public class archivo2 {
 		// proyecto 2
 		System.out.println("que trucking onda juan");
 		System.out.println("que trucking onda MARTAAAA");
+		System.out.println("que trucking onda pedro");
 	}
 
 }
