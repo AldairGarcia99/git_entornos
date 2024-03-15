@@ -17,6 +17,7 @@ public class archivo1 {
 		System.out.println("que onda marta");
 		System.out.println("que onda pedro");
 		System.out.println("que onda lucia");
+		System.out.println("que onda jorge");
 	}
 
 }
