@@ -16,6 +16,7 @@ public class archivo3 {
 		System.out.println("bro juan");
 		System.out.println("bro marta");
 		System.out.println("bro pedro");
+		System.out.println("bro lucia");
 	}
 
 }
