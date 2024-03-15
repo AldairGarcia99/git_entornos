@@ -15,6 +15,7 @@ public class archivo1 {
 		// proyecto 2
 		System.out.println("que onda juan");
 		System.out.println("que onda marta");
+		System.out.println("que onda pedro");
 	}
 
 }
