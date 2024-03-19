@@ -20,6 +20,7 @@ public class archivo2 {
 		System.out.println("que trucking onda lucia");
 		System.out.println("que trucking onda jorge");
 		System.out.println("que trucking onda manuel");
+		System.out.println("que trucking onda mario");
 	}
 
 }
