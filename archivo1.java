@@ -18,6 +18,8 @@ public class archivo1 {
 		System.out.println("que onda pedro");
 		System.out.println("que onda lucia");
 		System.out.println("que onda jorge");
+		System.out.println("holiiii");
+		System.out.println("perro sanxe");
 	}
 
 }
